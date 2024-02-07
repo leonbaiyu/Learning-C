@@ -6,6 +6,8 @@ int main()
     int nl, nt, ns, c;
 
     nl = 0;
+    nt = 0;
+    ns = 0;
 
     printf("Enter a string: ");
     /*Counting new lines*/
